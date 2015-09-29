@@ -1,6 +1,10 @@
 ==============
 pingdom-python
 ==============
+**Depricated**
+
+Special Note 9/29/2015:  The original author has long since merged the 
+PR reference in the previous note. Please use his new version! 
 
 Special Note 3/16/2011: I have an email out to the original author about
  a pull request back to the original trunk. I'd like to see these changes
